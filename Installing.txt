@@ -1,0 +1,4 @@
+pip install mlxtend  
+pip install pandas
+pip install nltk
+pip install vaderSentiment
